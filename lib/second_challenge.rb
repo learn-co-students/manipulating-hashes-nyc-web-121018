@@ -7,7 +7,8 @@ def second_challenge
   }
 
   #code your solution here!
-
-  
-
+#groceries.each do |category, food|
+#
+array =groceries.values
+array.flatten
 end
